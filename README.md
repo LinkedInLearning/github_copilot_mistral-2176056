@@ -2,7 +2,7 @@
 
 Ce dossier repository est lié au cours `Utiliser GitHub Copilot et Mistral pour coder plus vite et mieux`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
-![Mistraln][https://www.linkedin.com/learning/utiliser-github-copilot-et-mistral-pour-coder-plus-vite-et-mieux/bienvenue-dans-utiliser-github-copilot-et-mistral-pour-coder-plus-vite-et-mieux] 
+![Nom final de la formation][lil-thumbnail-url] 
 
 Coder, ce n’est pas seulement écrire des lignes de code : c’est résoudre des problèmes, inventer des solutions et transformer des idées en projets concrets. Les outils d’intelligence artificielle comme GitHub Copilot et Mistral offrent aujourd’hui une aide précieuse pour gagner en rapidité, améliorer la qualité du code et se concentrer sur la créativité. Dans cette formation, Alison Patou, data scientist forte de plus de dix ans d’expérience dans la valorisation des données et l’accompagnement de projets IA, vous guidera pas à pas. De l’installation des outils aux bonnes pratiques de pair programming, en passant par la génération de tests et la documentation automatique, vous apprendrez à faire de l’IA un véritable allié dans votre quotidien de développeur.
 
