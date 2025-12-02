@@ -12,9 +12,8 @@ Ce cours est intégré à GitHub Codespaces, un environnement de développement 
 
 ## Installation
 
-1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
-   - [Python] 
-2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
+1. Pour utiliser ces fichiers d’exercice, vous avez besoin de Python
+2. Clonez ce dossier repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree 
 
 
 ### Formateur
